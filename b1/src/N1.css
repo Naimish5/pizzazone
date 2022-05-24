@@ -1,0 +1,38 @@
+.d1{
+    @media  {
+        max-width: 100%;
+    }
+}
+.c6{
+     margin-top: 5px; 
+    
+}
+.c1{
+    height: 464px;
+    width: 100%;
+}
+.c2{
+    padding: auto;
+}
+.c3{
+    width: 100%;
+    height: 191px;
+}
+.c4{
+    width: 100%;
+    height: 191px;
+}
+.c5{
+    width: 100%;
+    height: 191px;
+}
+.c7{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.c8{
+    background-color: brown;
+}
+
+
